@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.csc.TestTriangleNumberCalculator" tests="14" skipped="0" failures="0" errors="0" timestamp="2024-10-23T23:02:18" hostname="DESKTOP-H3UO8NH" time="0.044">
+<testsuite name="com.csc.TestTriangleNumberCalculator" tests="23" skipped="0" failures="0" errors="0" timestamp="2024-11-10T00:47:02" hostname="DESKTOP-H3UO8NH" time="0.041">
   <properties/>
-  <testcase name="testAddFourAndTwo()" classname="com.csc.TestTriangleNumberCalculator" time="0.019"/>
-  <testcase name="testSubTwoAndThree()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
-  <testcase name="testSubFourAndTwo()" classname="com.csc.TestTriangleNumberCalculator" time="0.002"/>
+  <testcase name="testAddFourAndTwo()" classname="com.csc.TestTriangleNumberCalculator" time="0.013"/>
+  <testcase name="testSubTwoAndThree()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testSequenceOne()" classname="com.csc.TestTriangleNumberCalculator" time="0.005"/>
+  <testcase name="testSequenceTen()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testSequenceTwo()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testSubFourAndTwo()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testProductTwoAndSix()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testProductTwoAndTwo()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
   <testcase name="testAddTwoAndThree()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
-  <testcase name="testSubOneAndOne()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testSubOneAndOne()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testProductOneAndOne()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
   <testcase name="testSubZeroAndZero()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
-  <testcase name="testValueForFive()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
-  <testcase name="testValueForFour()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testProductOneAndFour()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testValueForFive()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testValueForFour()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
   <testcase name="testValueForZero()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
-  <testcase name="testValueForOne()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testProductZeroAndZero()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testValueForOne()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
   <testcase name="testValueForTen()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
-  <testcase name="testValueForTwo()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
-  <testcase name="testAddZeroAndZero()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testValueForTwo()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testSequenceZero()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testAddZeroAndZero()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
   <testcase name="testAddOneAndOne()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

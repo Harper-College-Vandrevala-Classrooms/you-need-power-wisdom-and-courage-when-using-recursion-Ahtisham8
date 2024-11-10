@@ -85,4 +85,51 @@ public class TestTriangleNumberCalculator {
   {
     assertEquals(0, calculator.subtract(0, 0));
   }
+
+  @Test
+  void testProductZeroAndZero()
+  {
+    assertEquals(0, calculator.multiply(0, 0));
+  }
+  @Test
+  void testProductOneAndOne()
+  {
+    assertEquals(1, calculator.multiply(1, 1));
+  }
+  @Test
+  void testProductOneAndFour()
+  {
+    assertEquals(10, calculator.multiply(1, 4));
+  }
+  @Test
+  void testProductTwoAndTwo()
+  {
+    assertEquals(9, calculator.multiply(2, 2));
+  }
+  @Test
+  void testProductTwoAndSix()
+  {
+    assertEquals(63, calculator.multiply(2, 6));
+  }
+
+  @Test
+  void testSequenceZero()
+  {
+    assertEquals("0", calculator.sequence(0));
+  }
+  @Test
+  void testSequenceOne()
+  {
+    assertEquals("0, 1", calculator.sequence(1));
+  }
+  @Test
+  void testSequenceTwo()
+  {
+    assertEquals("0, 1, 3", calculator.sequence(2));
+  }
+  @Test
+  void testSequenceTen()
+  {
+    assertEquals("0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55", calculator.sequence(10));
+  }
 }
